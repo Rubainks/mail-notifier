@@ -1,4 +1,4 @@
-# ✉ mail-notifier
+# 📮 Mail Notifier
 
 ### Function:
 Discord bot which sends a private message to you notifying when you receive a email from a specific sender.
